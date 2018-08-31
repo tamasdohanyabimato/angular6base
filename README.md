@@ -24,16 +24,13 @@ $FileDir$\$FileName$ $FileDir$\$FileNameWithoutExtension$.css
 Versions:
 ---------
 
-NPM v5.8.0
-NODE v9.11.x
---
 Angular CLI v6.1.5
-Angular v6.1.x (question)
+Angular v6.1.x
 TypeScript v2.7.2
 WebPack v4.9.2
 
 Common Definitions:
 -------------------
 
-Tab size: 4 space (question)
+Tab size: 4 space
 Indent: 4 space
