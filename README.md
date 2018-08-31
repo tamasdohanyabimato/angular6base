@@ -24,12 +24,14 @@
 ## Project Start Commands
 - ng new !projectname! --style=scss
 - cd !projectname!
-- ng add @angular/material
 - npm install
 - npm install -g npm@5.8.0
 - npm install -g @angular/cli@6.1.5
+- ng add @angular/material
 - npm start
 
 ## Angular CLI Commands
 - ng serve (--host 0.0.0.0 --port 0)
 - ng build (--prod --base-href /dist/)
+- ng new !projectname! --style=scss
+- ng add @angular/material
