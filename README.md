@@ -7,7 +7,7 @@
 - v5.8.0
 
 ## node-sass.cmd arguments
-- $FileDir$\$FileName$ $FileDir$\$FileNameWithoutExtension$.css
+- $FileDir$\\$FileName$ $FileDir$\\$FileNameWithoutExtension$.css
 
 # Base Objections
 
