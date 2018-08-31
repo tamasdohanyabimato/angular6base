@@ -22,8 +22,8 @@
 - Indent: 4 space
 
 ## Project Start Commands
-- ng new <projectname> --style=scss
-- cd <projectname>
+- ng new !projectname! --style=scss
+- cd !projectname!
 - ng add @angular/material
 - npm install
 - npm install -g npm@5.8.0
