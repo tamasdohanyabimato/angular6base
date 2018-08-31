@@ -17,6 +17,19 @@
 - TypeScript v2.7.2
 - WebPack v4.9.2
 
-## Common Definitions:
+## Common Definitions
 - Tab size: 4 space
 - Indent: 4 space
+
+## Project Start Commands
+- ng new <projectname> --style=scss
+- cd <projectname>
+- ng add @angular/material
+- npm install
+- npm install -g npm@5.8.0
+- npm install -g @angular/cli@6.1.5
+- npm start
+
+## Angular CLI Commands
+- ng serve (--host 0.0.0.0 --port 0)
+- ng build (--prod --base-href /dist/)
